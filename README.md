@@ -1,1 +1,3 @@
-# projet-collaboratif
+# Mon projet-collaboratif
+Bienvenue dans mon projet GitHub !
+Ce projet sert à apprendre les Pull Requests.
